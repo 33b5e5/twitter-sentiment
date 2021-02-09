@@ -29,3 +29,7 @@ export CONSUMER_SECRET="ApI-SeCrET-kEy"
 export ACCESS_TOKEN="AcCEsS-tOkEn"
 export ACCESS_TOKEN_SECRET="ACceSs-ToKEn-sEcReT"
 ```
+
+## Screenshot
+
+![screen.png](https://github.com/33b5e5/twitter-sentiment/raw/main/screen.png?raw=true)
