@@ -38,6 +38,8 @@ export ACCESS_TOKEN_SECRET="ACceSs-ToKEn-sEcReT"
 
 ### TextBlob
 
+License (MIT)
+
 Copyright 2013-2020 Steven Loria
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
